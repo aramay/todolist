@@ -51,7 +51,6 @@ class Assignment
       todo_lists.order('list_due_date DESC')
 
   end
-
   #
   # Query DB with exact match
   #
